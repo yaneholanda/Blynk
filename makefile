@@ -4,5 +4,5 @@
 #
 
 EXTRA_COMPONENT_DIRS += $(PROJECT_PATH)/../../../
-PROJECT_NAME := app-template
-include $(IDF_PATH)/make/project.mk
+PROJECT_NAME := ESP32-Blynk
+include $(ESP32-Blynk)/make/project.mk
